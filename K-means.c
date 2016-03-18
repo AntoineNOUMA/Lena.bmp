@@ -1,6 +1,6 @@
 /*#include"defs.h"
 
-//Calucul du carée de la norme entre deux vecteurs u et v de dimension d
+//Calcul du carée de la norme entre deux vecteurs u et v de dimension d
 double NormeAuCarree(double *u, double *v, long int d)
 {
     long int j, x;
